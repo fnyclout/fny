@@ -1,2 +1,2 @@
-# fny
+# fnyportfolio
 new pro
